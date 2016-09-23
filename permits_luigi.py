@@ -1,3 +1,6 @@
+__author__ = "Rinat Khaziev"
+__copyright__ = "Copyright 2016"
+
 import luigi
 import requests
 import pandas as pd
